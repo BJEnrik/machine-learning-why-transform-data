@@ -101,3 +101,42 @@
 10. Yeo-Johnson Transformation
 
 
+<h2 style="color:#E14C92">Problem Statement</h2>
+
+How does feature transformation improve model performance? Particularly:
+
+1. What are the advantages of each type of feature transformation?
+2. How should we choose the type of transformation to use?
+
+<h2 style="color:#E14C92">Transformation Cheat Sheet</h2>
+
+<center><img src="Cheat Sheet.png"/></center>
+
+<h1 style="color:#5A59A8">Conclusion and Recommendation</h1>
+
+<center><img src="Conclusion.png"/></center>
+
+<h1 style="color:#5A59A8">References</h1>
+
+<a id="ref2" href="https://www.analyticsvidhya.com/blog/2021/05/feature-transformations-in-data-science-a-detailed-walkthrough/#:~:text=What%20is%20Feature%20Transformation%3F,useful%20for%20our%20further%20analysis.">[1] Goyal, C. (2021, May 6). Feature Transformations in Data Science: A Detailed Walkthrough. https://www.analyticsvidhya.com/blog/2021/05/feature-transformations-in-data-science-a-detailed-walkthrough/#:~:text=What%20is%20Feature%20Transformation%3F,useful%20for%20our%20further%20analysis.</a>
+
+<a id="ref2" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4120293/#:~:text=The%20log%20transformation%20is%2C%20arguably,normal%20or%20near%20normal%20distribution">[2] Changyong Feng, et.al. (2014, Apr 26). Log-transformation and its implications for data analysis. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4120293/#:~:text=The%20log%20transformation%20is%2C%20arguably,normal%20or%20near%20normal%20distribution.</a>
+
+<a id="ref2" href="https://www.statisticshowto.com/transformations-2/">[3] Stephanie Glen. "Transformations: Log, Reciprocal, Vector, Linear…" From StatisticsHowTo.com: Elementary Statistics for the rest of us! https://www.statisticshowto.com/transformations-2/</a>
+
+<a id="ref2" href="http://fmwww.bc.edu/repec/bocode/t/transint.html">[2] Cox, N. (2007, Jul 25). Transformations: an introduction. http://fmwww.bc.edu/repec/bocode/t/transint.html</a>
+
+<a id="ref2" href="https://towardsdatascience.com/types-of-transformations-for-better-normal-distribution-61c22668d3b9">[5] Tamil Selvan S, et.al. (2020, May 29). Types Of Transformations For Better Normal Distribution. https://towardsdatascience.com/types-of-transformations-for-better-normal-distribution-61c22668d3b9</a>
+
+<a id="ref2" href="https://www.statisticshowto.com/probability-and-statistics/normal-distributions/box-cox-transformation/">[6] Stephanie Glen. "Box Cox Transformation: Definition, Examples" From StatisticsHowTo.com: Elementary Statistics for the rest of us! https://www.statisticshowto.com/probability-and-statistics/normal-distributions/box-cox-transformation/</a>
+
+<a id="ref2" href="https://www.stat.umn.edu/arc/yjpower.pdf">[7] Sanford Weisberg. (2001, Oct 26). "Yeo-Johnson Power Transformations. https://www.stat.umn.edu/arc/yjpower.pdf</a>
+
+<a id="ref2" href="https://becominghuman.ai/what-does-feature-scaling-mean-when-to-normalize-data-and-when-to-standardize-data-c3de654405ed">[8] Akalbir Singh Chadha. (2021, Jul 12). What Do Normalization and Standardization Mean? When to Normalize Data and When to Standardize Data? https://becominghuman.ai/what-does-feature-scaling-mean-when-to-normalize-data-and-when-to-standardize-data-c3de654405ed</a>
+
+<a id="ref2" href="https://machinelearninggeek.com/feature-scaling-minmax-standard-and-robust-scaler/">[9] Pallavi Pandey. (2020, Nov 5). Feature Scaling: MinMax, Standard and Robust Scaler. https://machinelearninggeek.com/feature-scaling-minmax-standard-and-robust-scaler/</a>
+
+<a id="ref2" href="https://www.oreilly.com/library/view/python-feature-engineering/9781789806311/c5983ea1-338e-4a09-be1c-a8a06f0fb5b9.xhtml">[10] Soledad Galli. Python Feature Engineering Cookbook. https://www.oreilly.com/library/view/python-feature-engineering/9781789806311/c5983ea1-338e-4a09-be1c-a8a06f0fb5b9.xhtml</a>
+
+<a id="ref2" href="https://www.bibliography.com/apa/how-to-cite-a-website-with-no-author-in-apa/#:~:text=How%20do%20you%20cite%20a,website%20title%20is%20in%20italics.">[11] What is data transformation: definition, benefits, and uses. Stitch: A Talent Product. https://www.bibliography.com/apa/how-to-cite-a-website-with-no-author-in-apa/#:~:text=How%20do%20you%20cite%20a,website%20title%20is%20in%20italics.</a>
+
